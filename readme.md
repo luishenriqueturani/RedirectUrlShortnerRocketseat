@@ -1,6 +1,7 @@
 # Redirect URL
 
 Projeto criado no curso gratuito da Rocketseat sobre Lambda Functions.
+Desativei o API Gateway para não gerar cobranças, mas ainda assim você pode testar o projeto com uma conta sua da AWS.
 
 ## Como usar
 
